@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    background-color:rgb(152, 24, 24);
+    height:80px;
+    margin-bottom:30px;
+    color: white;
+}
+.headerlogo{
+    width:60%;
+    padding: 10px;
+    padding-left: 30px;
+}
+.headercat{
+    text-align: right;
+    width:40%;
+    padding:30px;
+    font-size: 18px;
+}
+.links{
+    margin-left: 10px;
+    color: rgb(188, 188, 188);
+    text-decoration: none;
+}
+
+.mainnew{
+    padding:15px;
+    display: flex;
+    background-color: rgb(134, 203, 201);
+    height: 390px
+}
+
+.chast{
+    border: 0.1px solid grey;
+    width:25%;
+    height: 450px;
+    margin-left:10px;
+}
+.button{
+    margin-top:10px;
+    color: white;
+    background-color:rgb(143, 3, 3);
+    width:80px;
+    height:35px;
+    border: 0;
+}
